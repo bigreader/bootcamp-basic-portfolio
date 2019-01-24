@@ -135,6 +135,7 @@ img.inline-left {
 	box-sizing: border-box;
 	position: absolute;
 	bottom: 10px;
+	left: 0;
 	width: 320px;
 	padding: 10px;
 
