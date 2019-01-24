@@ -117,6 +117,35 @@ img.inline-left {
 	margin: 0 20px 20px 0;
 }
 
+.gallery {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.gallery .item {
+	flex: 0 0 auto;
+	position: relative;
+	height: 240px;
+	width: 320px;
+	margin: 10px;
+}
+
+.gallery .item a {
+	box-sizing: border-box;
+	position: absolute;
+	bottom: 10px;
+	width: 320px;
+	padding: 10px;
+
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 18px;
+	text-align: center;
+	background: #4aaaa5;
+	color: #ffffff;
+}
+
+
+
 
 #content {
 	min-height: 100%;
