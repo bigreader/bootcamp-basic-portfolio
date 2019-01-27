@@ -1,4 +1,4 @@
 # Bootcamp Homework #1
 ## Basic Portfolio
 
-[View live](bigreader.github.io/bootcamp-basic-portfolio) via GitHub Pages
+[View live](https://bigreader.github.io/bootcamp-basic-portfolio/) via GitHub Pages
